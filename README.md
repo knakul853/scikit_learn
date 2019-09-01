@@ -7,8 +7,8 @@
 5. Multi variable Logistic Regression<br>
 6.Classification<br>
 
-         6.1  Decision Tree<br>
-         6.2  SVM<br>
-         6.3  Random Forest<br>
+         6.1  Decision Tree
+         6.2  SVM
+         6.3  Random Forest
          
 7.OpenCV
