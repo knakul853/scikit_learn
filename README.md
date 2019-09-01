@@ -9,4 +9,4 @@
    6.1  Decision Tree<br>
    6.2  SVM<br>
    6.3  Random Forest<br>
-6.OpenCV<br>
+7.OpenCV<br>
